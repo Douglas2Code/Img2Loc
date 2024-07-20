@@ -10,6 +10,7 @@ Code for Img2Loc paper presented on SIGIR 2024.
 - [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
+- [Citation](#citation)
 
 ## Installation
 
@@ -60,3 +61,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Zhongliang Zhou: zzldouglas97@gmail.com
 Jielu Zhang: jz20582@uga.edu
+
+## Citation
+
+If you find this project helpful, please consider cite our work.
+
+```latex
+@inproceedings{zhou2024img2loc,
+  title={Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation},
+  author={Zhou, Zhongliang and Zhang, Jielu and Guan, Zihan and Hu, Mengxuan and Lao, Ni and Mu, Lan and Li, Sheng and Mai, Gengchen},
+  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2749--2754},
+  year={2024}
+}
+```
