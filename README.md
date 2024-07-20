@@ -1,6 +1,6 @@
 # Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation
 
-Code base for Img2Loc paper presented on SIGIR 2024.
+Code for Img2Loc paper presented on SIGIR 2024.
 
 ![Banner](./static/figure3.jpg)
 
