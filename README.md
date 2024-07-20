@@ -2,6 +2,8 @@
 
 Code base for Img2Loc paper presented on SIGIR 2024.
 
+![Banner](./static/figure3.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -11,7 +13,7 @@ Code base for Img2Loc paper presented on SIGIR 2024.
 
 ## Installation
 
-Instructions on how to install and set up the project.
+Instructions on how to install and set up the project. If you needs help to access the generated embeddings, please contact us directly.
 
 ```bash
 # Clone the repository
@@ -33,7 +35,7 @@ https://github.com/facebookresearch/faiss/blob/main/INSTALL.md
 pip install -r requirements.txt
 
 # Download MP16 dataset
-http://www.multimediaeval.org/mediaeval2016/
+http://www.multimediaeval.org/mediaeval2016/placing/
 
 # Generate embeddings using CLIP model
 https://github.com/openai/CLIP
