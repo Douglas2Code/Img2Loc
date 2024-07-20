@@ -31,6 +31,16 @@ https://github.com/facebookresearch/faiss/blob/main/INSTALL.md
 
 # Install the project dependencies
 pip install -r requirements.txt
+
+# Download MP16 dataset
+http://www.multimediaeval.org/mediaeval2016/
+
+# Generate embeddings using CLIP model
+https://github.com/openai/CLIP
+
+# Generate a vector database using FAISS
+https://github.com/facebookresearch/faiss/wiki/Getting-started#in-python-1
+
 ```
 
 ## Usage
