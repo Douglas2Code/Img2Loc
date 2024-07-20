@@ -2,7 +2,7 @@
 
 Code base for Img2Loc paper presented on SIGIR 2024.
 
-![Banner](./static/figure3.png)
+![Banner](./static/figure3.jpg)
 
 ## Table of Contents
 
